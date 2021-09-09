@@ -1,13 +1,13 @@
 package aula0809;
 
-public class Agenda {
+
 
 
 import  aula0809.Pessoa ;
 
     public  class  Agenda {
 
-        Pessoa [] pessoas =  nova  Pessoa [ 10 ];
+        Pessoa [] pessoas =  nova Pessoa [ 10 ];
 
         String nomeDaAgenda;
 
